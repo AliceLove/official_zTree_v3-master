@@ -1,0 +1,424 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"repeat",
+				"repeat-x"
+			],
+			[
+				"image",
+				"images"
+			],
+			[
+				"mai",
+				"main-right"
+			],
+			[
+				"main",
+				"main-left"
+			],
+			[
+				"wi",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "in",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"i",
+				"Package Control: Install Package→安装插件"
+			]
+		],
+		"width": 594.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/install_files/Dict/Stable/extensions/firefox/chrome/content/getword.js",
+		"/C/Program Files (x86)/Google/Chrome/Application/65.0.3325.181/Extensions/external_extensions.json",
+		"/C/Program Files (x86)/Google/Chrome/Application/64.0.3282.186/Extensions/external_extensions.json",
+		"/C/Users/Alice/AppData/Local/Google/Chrome/User Data/Default/Extensions/lfamimmlickbeelcmighegbkiipijmog/1.1.1.166_0/manifest.json",
+		"/C/Users/Alice/AppData/Local/Google/Chrome/User Data/Default/Extensions/lfamimmlickbeelcmighegbkiipijmog/1.1.1.166_0/_metadata/verified_contents.json",
+		"/C/Users/Alice/Desktop/ES6test.js",
+		"/F/精通d3/chapter6/6.8/6-8-1-lineChart.html",
+		"/C/Users/Alice/Desktop/es6tutorial-gh-pages/config.js",
+		"/C/Users/Alice/Desktop/es6tutorial-gh-pages/index.html",
+		"/C/Users/Alice/Desktop/es6tutorial-gh-pages/js/marked.js",
+		"/C/Users/Alice/Desktop/es6tutorial-gh-pages/js/store.js",
+		"/C/Users/Alice/Desktop/a.html",
+		"/C/Users/Alice/Desktop/左右滚动/jiaoben3495/css/style.css",
+		"/C/Users/Alice/Desktop/radar-chart-d3-master/example/radar-index.html",
+		"/C/Users/Alice/Desktop/radar-chart-d3-master/example/index.html",
+		"/C/Users/Alice/Desktop/radar-chart-d3-master/example/csv2radar.html",
+		"/C/Users/Alice/Desktop/radar-chart-d3-master/src/radar-chart.js",
+		"/C/Users/Alice/Desktop/dd.js",
+		"/C/Users/Alice/Desktop/rcs_theta_90.csv",
+		"/F/d3-cookbook/src/chapter5/grid-line.html",
+		"/C/Users/Alice/Desktop/rcs_phi_90.csv",
+		"/C/Users/Alice/Downloads/酒瓶滑动/js/script.js",
+		"/C/Users/Alice/Downloads/酒瓶滑动/index.html",
+		"/C/Users/Alice/Downloads/酒瓶滑动/css/style.css",
+		"/F/精通d3/chapter6/6.7/6-7-2-projection.html",
+		"/F/精通d3/chapter6/6.7/6-7-1-diagonalGenerator.html",
+		"/F/精通d3/chapter5/5.4/5-4-1-scatter.html",
+		"/C/Users/Alice/Desktop/左右滚动/jiaoben3495/index.html",
+		"/C/Users/Alice/Desktop/paraller/cars.csv",
+		"/C/Users/Alice/Desktop/sublime文件/radar.js",
+		"/D/node/nodejs/d3Src/paraller/cars.csv",
+		"/C/Users/Alice/Desktop/新建文件夹/parallel.html",
+		"/C/Users/Alice/Desktop/d3-api示例代码/d3-api-demo-master/core/color/d3.rgb.html",
+		"/C/Users/Alice/Desktop/sublime文件/radar.html",
+		"/C/Users/Alice/Desktop/cars.csv",
+		"/C/Users/Alice/Desktop/parallel.html",
+		"/C/Users/Alice/Desktop/parallel-coordinates-master/style.css",
+		"/C/Users/Alice/Desktop/radar.html",
+		"/C/Users/Alice/Desktop/radar-char-min.js",
+		"/C/Users/Alice/Desktop/新式管理系统界面/charts.html",
+		"/C/Users/Alice/Desktop/radar-chart-d3-master/src/radar-chart.css",
+		"/C/Users/Alice/Desktop/express-demo-master/views/index.jade",
+		"/C/Users/Alice/Desktop/radar-chart-d3-master/package.json",
+		"/C/Users/Alice/Desktop/radar-chart-d3-master/bower.json",
+		"/D/node/myapp/routes/index.js",
+		"/C/Users/Alice/Desktop/d3-api示例代码/d3-api-demo-master/d3/d3.min.js",
+		"/C/Users/Alice/Desktop/zTree_v3-master/test.html",
+		"/C/Users/Alice/Desktop/index.html",
+		"/C/Users/Alice/Desktop/新建文件夹/a",
+		"/C/Users/Alice/Downloads/require.js",
+		"/D/node/myWeb/public/stylesheets/style.css",
+		"/D/node/myWeb/public/stylesheets/linearicons.css",
+		"/C/Users/Alice/Downloads/jquery-3.3.1.min.js",
+		"/C/Users/Alice/Desktop/jQuery ztree/index.html",
+		"/C/Users/Alice/Desktop/页面效果网页/经典管理系统界面/main.html",
+		"/C/Users/Alice/Desktop/phi-0.csv",
+		"/C/Users/Alice/Desktop/新建文件夹/index.html",
+		"/C/Users/Alice/Desktop/新建文件夹/a.js",
+		"/C/Users/Alice/Desktop/webGL/WebGLBook入门指南_示例代码/Chapter 2/example2-2.html",
+		"/C/Users/Alice/Desktop/新式管理系统界面/page-profile.html",
+		"/C/Users/Alice/Desktop/webGL/WebGLBook入门指南_示例代码/Chapter 4/keyframe-robot.html",
+		"/C/Users/Alice/Desktop/jeasyui-layout-layout/jeasyui-layout-layout/layout_demo.html",
+		"/D/node/myapp/views/index.ejs",
+		"/C/Users/Alice/Desktop/express-demo-master/routes/index.js",
+		"/C/Users/Alice/Desktop/express-demo-master/routes/login.js",
+		"/C/Users/Alice/Desktop/express-demo-master/routes/register.js",
+		"/C/Users/Alice/Desktop/express-demo-master/routes/users.js",
+		"/C/Users/Alice/Desktop/express-demo-master/app.js",
+		"/C/Users/Alice/Desktop/nodejs-app-upgrade-master/mongoose.js",
+		"/C/Users/Alice/Desktop/nodejs-app-upgrade-master/views/login.ejs",
+		"/C/Users/Alice/Desktop/nodejs-app-upgrade-master/views/index.ejs",
+		"/D/node/package-lock.json",
+		"/C/Users/Alice/Desktop/express-demo-master/views/login.jade",
+		"/C/Users/Alice/AppData/Local/Temp/HZ$D.333.1603/HZ$D.333.1604/WebGL_Guide_Code/ch05/MultiAttributeColor.html",
+		"/D/node/nodejs/public/assets/css/ztreeCSS/bootstrapStyle/bootstrapStyle.css",
+		"/D/node/nodejs/public/assets/css/ztreeCSS/bootstrapStyle.css",
+		"/C/Users/Alice/Desktop/jQuery ztree/css/bootstrapStyle/bootstrapStyle.css",
+		"/C/Users/Alice/Desktop/zTree_v3-master/css/demo.css",
+		"/C/Users/Alice/Desktop/新式管理系统界面/index.html",
+		"/C/Users/Alice/AppData/Local/Temp/HZ$D.274.4592/HZ$D.274.4593/jquery-accordion-with-icon/index.html",
+		"/C/Users/Alice/Desktop/test.html",
+		"/C/Users/Alice/Desktop/sublime文件/可视化系统/airplane.html",
+		"/C/Users/Alice/Desktop/jiaoben3495/jiaoben3495/index.html",
+		"/C/Users/Alice/Desktop/黑黄/gbts_9_pluton/index.html",
+		"/C/Users/Alice/Desktop/d3-api示例代码/d3-api-demo-master/svg/brush/d3.svg.brush.html",
+		"/C/Users/Alice/Desktop/jiaoben3495/jiaoben3495/css/style.css",
+		"/C/Users/Alice/Desktop/黑黄/gbts_9_pluton/css/jquery.cslider.css",
+		"/C/Users/Alice/Desktop/黑黄/gbts_9_pluton/css/jquery.bxslider.css",
+		"/C/Users/Alice/Desktop/jiaoben2745/jiaoben2745/js/MSClass.js",
+		"/C/Users/Alice/AppData/Local/Temp/HZ$D.299.3740/HZ$D.299.3741/jiaoben3495/index.html",
+		"/C/Users/Alice/Desktop/黑黄/gbts_9_pluton/js/jquery.bxslider.js",
+		"/C/Users/Alice/Desktop/黑黄/gbts_9_pluton/js/jquery.cslider.js",
+		"/C/Users/Alice/Desktop/黑黄/gbts_9_pluton/js/bootstrap.js",
+		"/C/Users/Alice/Desktop/黑黄/gbts_9_pluton/css/bootstrap-responsive.css",
+		"/C/Users/Alice/Desktop/黑黄/gbts_9_pluton/css/pluton.css",
+		"/C/Users/Alice/Desktop/黑黄/gbts_9_pluton/css/bootstrap.css",
+		"/C/Users/Alice/Desktop/黑黄/gbts_9_pluton/js/jquery.js",
+		"/C/Users/Alice/Desktop/黑黄/gbts_9_pluton/css/style.css",
+		"/C/Users/Alice/Desktop/黑黄/gbts_9_pluton/css/animate.css",
+		"/C/Users/Alice/Desktop/黑黄/gbts_9_pluton/js/jquery.placeholder.js",
+		"/C/Users/Alice/Desktop/页面效果网页/新式管理系统界面/index.html",
+		"/D/ant-design-pro/src/layouts/BasicLayout.js",
+		"/D/ant-design-pro/src/layouts/UserLayout.js",
+		"/D/install_files/Git/ReleaseNotes.html",
+		"/C/Users/Alice/Desktop/页面效果网页/新式管理系统界面/charts.html",
+		"/C/Users/Alice/Desktop/页面效果网页/新式管理系统界面/assets/scripts/klorofil-common.js",
+		"/C/Users/Alice/Desktop/sublime文件/fruits.sql",
+		"/C/Users/Alice/Desktop/sublime文件/main.js",
+		"/C/Users/Alice/Desktop/sublime文件/airplane.html",
+		"/C/Users/Alice/Desktop/sublime文件/setCharts.js",
+		"/C/Users/Alice/Desktop/sublime文件/css/index.css",
+		"/C/Users/Alice/Desktop/sublime文件/viewchartData.js",
+		"/C/Users/Alice/Desktop/sublime文件/经济查询.html",
+		"/C/Users/Alice/Desktop/sublime文件/index.html",
+		"/C/Users/Alice/Desktop/sublime文件/dashboard.html",
+		"/C/Users/Alice/Desktop/sublime文件/movies.csv",
+		"/C/Users/Alice/Desktop/sublime文件/yearData.csv",
+		"/C/Users/Alice/Desktop/sublime文件/简单查询.html",
+		"/C/Users/Alice/AppData/Local/Temp/HZ$D.032.3478/HZ$D.032.3479/btst_73_zdoggy/index.html",
+		"/C/Users/Alice/Desktop/radar-chart-d3-master/src/radar-chart.min.js",
+		"/C/Users/Alice/Desktop/sublime文件/a.js",
+		"/C/Users/Alice/Desktop/WebGLBook-master/Chapter 1/example1-1.html",
+		"/C/Users/Alice/Desktop/WebGLBook-master/Chapter 3/graphics-earth-basic.html",
+		"/C/Users/Alice/Desktop/1.json",
+		"/C/Users/Alice/Desktop/tid_5_klorofil/index.html",
+		"/C/Users/Alice/Desktop/crossfilter-gh-pages/crossfilter-gh-pages/flights-3m.json",
+		"/C/Users/Alice/Desktop/crossfilter-gh-pages/crossfilter-gh-pages/index.html",
+		"/C/Users/Alice/AppData/Local/Temp/HZ$D.511.2594/HZ$D.511.2595/WebGL_Guide_Code/ch09/MultiJointModel.html"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"py",
+			"mouse",
+			"gMark",
+			"tick",
+			"country",
+			"line",
+			"oSpan",
+			"oScroll",
+			"myEvent",
+			"td",
+			"sMove",
+			"dMove",
+			"getStyle",
+			"td",
+			"sltBrushMode",
+			"brush",
+			"rename",
+			"subP",
+			"676a",
+			"client-prev",
+			"client-nav",
+			"client-prev",
+			"client",
+			"client-prev",
+			"third-section",
+			"section third-section",
+			"elemen",
+			"row",
+			"span4",
+			"div",
+			"service",
+			"display",
+			"display: block;",
+			"span4",
+			"container",
+			"181a1c",
+			"000",
+			"container",
+			"img-circle",
+			"circle-border",
+			"row-fluid",
+			"span4",
+			"img-circle",
+			"circle-border",
+			"service",
+			"centered",
+			"span4",
+			".row",
+			"row-fluid",
+			"title",
+			"container",
+			"primary-section",
+			"#service",
+			"#",
+			"container",
+			"section",
+			"section primary-section",
+			"traits",
+			"species",
+			"x",
+			"projectionMatrix",
+			"谈话",
+			"cube",
+			"renderlet",
+			"table",
+			"headline-chart",
+			"svg",
+			"main-left",
+			"main-left left",
+			"setChart",
+			"getJsonTbale",
+			"setChart",
+			"dropListBox",
+			"delClick",
+			"CreateTable",
+			"ksChart",
+			"getItem()",
+			"getWd()",
+			"option",
+			"defaultId",
+			"getTuxml",
+			"getData",
+			"loadDownloadPop()",
+			"tbody",
+			"tree",
+			"loadDownloadPop()",
+			"saveFavorite()",
+			"share()",
+			"$(\"#\"+tableId+\" thead\")",
+			"popDownload",
+			"autoExperience()",
+			"search()",
+			"search",
+			"autoExperience",
+			"varchar",
+			"let"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "checkbox.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
